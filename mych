@@ -7,5 +7,5 @@ https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:0,ABPMajha
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7016.ABPMajha.in.m3u8
-#EXTINF:0,starplususa
-http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
+#EXTINF:0,Aaj Tak
+https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
